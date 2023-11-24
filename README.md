@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on many projects with TE.
+I'm currently learning Javascript.
+My pronouns are she/her.
+Fun fact: I'm also a professional opera singer.
